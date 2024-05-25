@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  
+  This is glasspaneUI
 </main>
 
 <style>
