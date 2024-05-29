@@ -1,2 +1,2 @@
 # Glasspane-UI
-npm i glasspane-ui
+Install by running - 'npm i glasspane-ui' into your terminal
